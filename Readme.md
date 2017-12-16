@@ -5,4 +5,4 @@
 ### Using Bootstrap 4 which makes it fully responsive.
 
 ![Free Business Web Template]
-(img/Free Business Web Template PSD.jpg)
+(https://raw.githubusercontent.com/MarouaneZizah/Bootstrap-4-WebWorld-Template/master/img/Free%20Business%20Web%20Template%20PSD.jpg)
